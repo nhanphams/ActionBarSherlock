@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T07:25:50.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="bsiVBuOk25VPcLp2rCvC" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-20T07:50:50.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="XRriijilLr-IIkKoqMdb" version="13.6.0" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="60da8b9f42644d3a-28" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="896" y="705" width="240" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="60da8b9f42644d3a-29" value="Mỗi NPP sẽ nhận được 1 SMS + 1 Email /ngày thông báo về tình hình đơn hàng&amp;nbsp; các đại lý" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#B39C07;" parent="1" vertex="1">
+        <mxCell id="60da8b9f42644d3a-29" value="Mỗi NPP sẽ nhận 1 SMS + 1 Email /ngày thông báo danh sách đơn hàng&amp;nbsp; các đại lý" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#B39C07;" parent="1" vertex="1">
           <mxGeometry x="819" y="545" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;" parent="1" vertex="1">
